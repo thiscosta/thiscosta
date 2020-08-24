@@ -22,6 +22,8 @@
 
 <p align="center">
 <a href="https://www.codestudio.com.br/">Website</a>
+<span> | </span>
 <a href="https://www.linkedin.com/in/thiscosta00/">Linkedin</a>
+<span> | </span>
 <a href="mailto:thiago@codestudio.com">Email</a>
 </p>
