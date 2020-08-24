@@ -1,16 +1,27 @@
-### Hi there 👋
+<h2> Hey there! I'm thiscosta.</h2>
 
-<!--
-**thiscosta/thiscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring backend and bigdata technologies, software architecture and developing software solutions.
+- 🎓 &nbsp; Studying Information Systems at UNASP.
+- 💼 &nbsp; Working as a Software Developer at [Dextra](https://dextra.com.br/).
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Scala | Python
+- 🌐 &nbsp; JavaScript | ReactJS | Gatsby | Next.js
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | HBase | Elasticsearch 
+- 🔧 &nbsp; Git | Markdown
+
+<br/>
+
+[![thiscosta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiscosta&show_icons=true)](https://github.com/thiscosta)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.codestudio.com.br/">Website</a>
+<a href="https://www.linkedin.com/in/thiscosta00/">Linkedin</a>
+<a href="mailto:thiago@codestudio.com">Email</a>
+</p>
