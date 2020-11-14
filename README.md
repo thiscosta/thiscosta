@@ -4,12 +4,12 @@
 
 - 🤔 &nbsp; Exploring backend and bigdata technologies, software architecture and developing software solutions.
 - 🎓 &nbsp; Studying Information Systems at UNASP.
-- 💼 &nbsp; Working as a Software Developer at [Dextra](https://dextra.com.br/).
+- 💼 &nbsp; Working as a Software Developer at [Luizalabs](https://www.linkedin.com/company/luizalabs/mycompany/).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Scala | Python
+- 💻 &nbsp; Java | Scala | Python | NodeJS
 - 🌐 &nbsp; JavaScript | ReactJS | Gatsby | Next.js
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | HBase | Elasticsearch 
 - 🔧 &nbsp; Git | Markdown
