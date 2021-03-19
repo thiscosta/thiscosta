@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Scala | Python | NodeJS
+- 💻 &nbsp; Java | NodeJS | Scala
 - 🌐 &nbsp; JavaScript | ReactJS | Gatsby | Next.js
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | HBase | Elasticsearch 
-- 🔧 &nbsp; Git | Markdown
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | HBase | ELK 
+- 🔧 &nbsp; Git | Markdown | Jenkins | Prometheus
 
 <br/>
 
