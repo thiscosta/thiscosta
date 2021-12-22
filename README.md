@@ -21,9 +21,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.thiscosta.com">Website</a>
+<a href="https://thiscosta.com">Website</a>
 <span> | </span>
-<a href="https://www.linkedin.com/in/thiscosta00/">Linkedin</a>
+<a href="https://linkedin.com/in/thiscosta00/">Linkedin</a>
 <span> | </span>
 <a href="mailto:thiago@codestudio.com">Email</a>
 </p>
